@@ -1,2 +1,2 @@
 # iimage
-iimage test
+test composer package
