@@ -22,7 +22,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Nomandia\\IImage\\": "src/"
+            "EricSource\\IImage\\": "src/"
         }
     },
     "extra": {
