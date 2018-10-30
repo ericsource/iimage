@@ -1,6 +1,6 @@
 <?php
 
-namespace Nomandia\IImage;
+namespace Ericsource\IImage;
 
 use Illuminate\Support\ServiceProvider;
 

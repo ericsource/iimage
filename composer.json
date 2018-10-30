@@ -28,7 +28,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Nomandia\\IImage\\IImageProvider"
+                "Ericsource\\IImage\\IImageProvider"
             ]
         }
     }
