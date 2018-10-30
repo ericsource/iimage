@@ -1,5 +1,5 @@
 <?php
-namespace Nomandia\IImage;
+namespace EricSource\IImage;
 
 class IImage
 {

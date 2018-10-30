@@ -1,6 +1,6 @@
 <?php
 
-namespace Ericsource\IImage;
+namespace EricSource\IImage;
 
 use Illuminate\Support\ServiceProvider;
 
