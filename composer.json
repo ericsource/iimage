@@ -2,7 +2,7 @@
     "name": "ericsource/iimage",
     "description": "Simple picture upload toolkit.",
     "require": {
-        "php": ">=5.3.3",
+        "php": ">=7.0.0",
         "laravel/framework": "~5.5",
         "intervention/image": "~2.4",
         "qiniu/php-sdk": "~7.2"
